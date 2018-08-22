@@ -1,0 +1,27 @@
+{
+  "name": "sole-designer-be",
+  "version": "1.0.0",
+  "description": "Backend for Sole-Designer web app which is a design editor, where user can upload images and add it to there t-shirt.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ratnam995/Sole-Designer-BE.git"
+  },
+  "author": "Kumar Ratnam Pandey",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ratnam995/Sole-Designer-BE/issues"
+  },
+  "homepage": "https://github.com/ratnam995/Sole-Designer-BE#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "mysql": "^2.16.0",
+    "body-parser": "^1.18.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.3"
+  }
+}
